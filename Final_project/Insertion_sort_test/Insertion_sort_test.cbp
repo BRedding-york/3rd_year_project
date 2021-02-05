@@ -31,6 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Sort.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -38,6 +41,7 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="servos.h" />
+		<Unit filename="sort.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
